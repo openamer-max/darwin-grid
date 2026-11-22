@@ -67,3 +67,11 @@ python scripts/darwin_grid_github.py --duel  <foreign-machine-id>
 
 *(this table is updated by the grid clients themselves — git history has
 the authoritative record)*
+
+---
+
+## Kontakt
+
+Fragen, Fehlerberichte, Sponsoring: **openamer-max@proton.me**
+
+Unterstützen: [PayPal](https://www.paypal.com/qrcodes/p2pqrc/BVZD4HRJ9G6YG) · [Website](https://openamer-max.github.io/)
